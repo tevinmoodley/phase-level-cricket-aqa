@@ -1,0 +1,16 @@
+{
+  "split_seed": 42,
+  "source_videos": {
+    "train": 153,
+    "validation": 30,
+    "test": 22,
+    "total": 205
+  },
+  "strokes": {
+    "train": 5806,
+    "validation": 1378,
+    "test": 967,
+    "total": 8151
+  },
+  "guarantee": "source-video independence only; player identity was not systematically retained for player-disjoint partitioning"
+}

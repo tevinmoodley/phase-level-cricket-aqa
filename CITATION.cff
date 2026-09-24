@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these revision materials, please cite the associated article and UJ-AQA-CricketVision dataset paper."
+title: "Phase-Level Cricket AQA: Scientific Reports revision code"
+type: software
+authors:
+  - family-names: Moodley
+    given-names: Tevin
+repository-code: "https://github.com/tevinmoodley/phase-level-cricket-aqa"
+date-released: 2026-09-24
+version: 1.0.0
